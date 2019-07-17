@@ -30,7 +30,7 @@
         "react-dom": "~16.3.0"
     },
     "dependencies": {
-        "ra-core": "^2.2.0",
+        "ra-core": "RGump/ra-core/#master",
         "ra-language-english": "^2.2.0",
         "ra-ui-materialui": "^2.2.0"
     }
